@@ -12,5 +12,17 @@
       "age": 2,
       "breed": "labrador"
     }
+  ],
+  "goods": [
+    {
+      "type": "meal",
+      "weight": "1 kilo",
+      "taste": "salty"
+    },
+    {
+      "type": "clothes",
+      "color": "pink",
+      "size": 3
+    }
   ]
 }
